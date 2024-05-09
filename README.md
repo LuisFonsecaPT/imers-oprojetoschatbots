@@ -1,4 +1,4 @@
-CHATBOT PLANEJADOR DE VIAGEM________________________________________________________
+CHATBOT PLANEJADOR DE VIAGEM
 
 
 
@@ -25,9 +25,9 @@ ________________________________________________________________________________
 Tecnologias:
 
 🧠 Gemini API: Fornecendo insights e dados de viagens abrangentes.
-🐍 [Linguagem de programação]: python
+🐍 [Linguagem de programação]: PYTHON 
 
-
+_________________________________________________________________________________________________________________________________________________
 Comece a planejar!
 
 Clone o repositório: git clone https://github.com/LuisFonsecaPT/imers-oprojetoschatbots.git
@@ -37,7 +37,7 @@ Instale as dependências: pip install -r requirements.txt
 Configure a API Key: Insira sua chave de API Gemini no arquivo de configuração.
 
 Execute o chatbot: Siga as instruções para iniciar o chatbot na sua linguagem de programação e framework.
-
+_______________________________________________________________________________________________________________________________________________
 Contribua para o projeto!
 
 ⭐ Dê uma estrela se você gostou deste projeto!
@@ -53,3 +53,4 @@ A API Gemini pode ter custos associados ao seu uso.
 Leia os termos de uso da API Gemini antes de utilizar este chatbot.
 
 Prepare-se para embarcar em uma jornada inesquecível! 
+_______________________________________________________________________________________________________________________________________________
