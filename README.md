@@ -1,3 +1,5 @@
+![Logo do projeto](https://imgur.com/a/OG7lKZt)
+
 ✈️🤖 Planejador de Viagens com Chatbot
 
 Explore o mundo com a ajuda deste chatbot amigável, desenvolvido para tornar o planejamento da sua próxima aventura mais fácil e divertido! 🌎
