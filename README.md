@@ -32,7 +32,7 @@ Comece a planejar!
 
 Clone o repositório: git clone https://github.com/LuisFonsecaPT/imers-oprojetoschatbots.git
 
-Instale as dependências: pip install -r requirements.txt
+Instale as dependências: !pip install -q -U google-generativeai
 
 Configure a API Key: Insira sua chave de API Gemini no arquivo de configuração.
 
