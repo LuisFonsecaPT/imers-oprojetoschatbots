@@ -1,4 +1,4 @@
-![CHATBOT PLANEJADOR DE VIAGEM](https://imgur.com/UIT42V3)
+![CHATBOT PLANEJADOR DE VIAGEM](http://luisfonseca.infinityfreeapp.com/wp-content/uploads/2024/05/unnamed-file.jpg)
 
 ✈️🤖 Planejador de Viagens com Chatbot
 
