@@ -1,4 +1,4 @@
-![Logo do projeto](https://imgur.com/a/OG7lKZt)
+<img src="https://imgur.com/a/OG7lKZt" alt="CHATBOT PLANEJADOR DE VIAJEM GEMINI API KEY"
 
 ✈️🤖 Planejador de Viagens com Chatbot
 
