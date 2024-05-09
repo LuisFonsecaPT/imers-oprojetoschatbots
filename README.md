@@ -1,4 +1,4 @@
-![CHATBOT PLANEJADOR DE VIAGEM](https://imgur.com/a/OG7lKZt)
+![CHATBOT PLANEJADOR DE VIAGEM](https://imgur.com/UIT42V3)
 
 ✈️🤖 Planejador de Viagens com Chatbot
 
